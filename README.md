@@ -11,7 +11,7 @@ Things you can expect to learn from **End to End with Angular JS**:
 
 * $http
 * $rootScope
-* taking the [AuthenticationService](https://github.com/davemo/intro-to-angularjs/blob/master/app/js/app.js#L19) we built earlier end-to-end
+* taking the [AuthenticationService](https://github.com/isaccanedo/intro-to-angularjs/blob/master/app/js/app.js#L19) we built earlier end-to-end
 * creating a FlashService for displaying alerts to users
 * access control for client-side routes with $rootScope and $routeProvider
 * $httpProvider.responseInterceptors and logging out users automatically if serverside sessions expire
